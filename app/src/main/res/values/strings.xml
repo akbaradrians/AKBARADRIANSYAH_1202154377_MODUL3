@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AKBARADRIANSYAH_1202154377_MODUL3</string>
+    <array name="water_images">
+        <item>@drawable/aqua</item>
+        <item>@drawable/ades</item>
+        <item>@drawable/amidis</item>
+        <item>@drawable/cleo</item>
+        <item>@drawable/club</item>
+        <item>@drawable/equil</item>
+        <item>@drawable/evian</item>
+        <item>@drawable/leminerale</item>
+        <item>@drawable/pristine</item>
+        <item>@drawable/vit</item>
+        <item>@drawable/nestle</item>
+    </array>
+</resources>
